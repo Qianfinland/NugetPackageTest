@@ -1,0 +1,6 @@
+C:\git\task2\CommentUpdates\CommentUpdates\bin\Debug\CommentUpdates.exe.config
+C:\git\task2\CommentUpdates\CommentUpdates\bin\Debug\CommentUpdates.exe
+C:\git\task2\CommentUpdates\CommentUpdates\bin\Debug\CommentUpdates.pdb
+C:\git\task2\CommentUpdates\CommentUpdates\obj\Debug\CommentUpdates.csprojResolveAssemblyReference.cache
+C:\git\task2\CommentUpdates\CommentUpdates\obj\Debug\CommentUpdates.exe
+C:\git\task2\CommentUpdates\CommentUpdates\obj\Debug\CommentUpdates.pdb
